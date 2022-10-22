@@ -4,7 +4,7 @@ util/cf-terraforming/*.tf
 util/cf-terraforming/*.txt
 .secret*
 output/
-.terraform*
+.terraform/
 .awsrc
 .cfrc
 .idea/
